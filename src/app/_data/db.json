@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "user3 contact trun update",
+      "email": "trun@gmail.com",
+      "userId": "3",
+      "id": "1754749546059"
+    },
+    {
+      "name": "user2 contact XYZ Update",
+      "email": "xyz@gmail.com",
+      "userId": "2",
+      "id": "1754750226773"
+    },
+    {
+      "name": "Test Edit",
+      "email": "test@gmail.com",
+      "userId": "1",
+      "id": "1754756014465"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "user1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "email": "user2@gmail.com",
+      "password": "654321"
+    },
+    {
+      "id": "3",
+      "email": "user3@gmail.com",
+      "password": "65432190"
+    }
+  ]
+}
